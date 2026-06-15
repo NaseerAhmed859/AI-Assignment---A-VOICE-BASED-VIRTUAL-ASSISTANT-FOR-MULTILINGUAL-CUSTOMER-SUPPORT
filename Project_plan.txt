@@ -1,0 +1,7 @@
+1. Capture customer voice input
+2. Convert speech to text
+3. Detect customer language
+4. Process query using NLP
+5. Generate response
+6. Convert response to speech
+7. Deliver response to customer
