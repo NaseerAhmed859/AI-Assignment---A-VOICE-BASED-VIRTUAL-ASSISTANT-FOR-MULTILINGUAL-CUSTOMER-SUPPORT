@@ -1,0 +1,11 @@
+Performance Measure:
+Fast and accurate customer support.
+
+Environment:
+Customers, support system, multiple languages.
+
+Actuators:
+Voice response, text response.
+
+Sensors:
+Microphone input, customer voice commands.
